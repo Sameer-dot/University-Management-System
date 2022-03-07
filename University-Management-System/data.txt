@@ -1,0 +1,31 @@
+Heavy University Lahore
+2
+Computer Science
+3
+100 Programming Fundamentals
+200 Data Structures
+300 Artificial Intelligence
+5
+666 Zafar Iqbal
+777 Fakhar Imam
+1
+256 Irfan Majeed
+4
+1801 Umar Nadeem
+1802 Zainab Irfan
+1803 Hassan Afzal
+1804 Ayesha Farooq 
+Electrical Engineering
+2
+400 Electromagnetic Theory
+500 Multivariable Calculus
+2
+888 Kashif Naveed
+999 Daud Khan
+1
+512 Sohail Ahmad
+4
+1861 Mohsin Iqbal 
+1862 Amna Khan
+1863 Ali Raza
+1864 Rana Saud

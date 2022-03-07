@@ -1,0 +1,27 @@
+﻿  Course.cpp
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Course.cpp(17,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Department.cpp
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Department.cpp(11,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Employee.cpp
+  HoD.cpp
+  ITMan.cpp
+  Main.cpp
+  Person.cpp
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Person.cpp(10,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Registration.cpp
+  Student.cpp
+  Teacher.cpp
+  University.cpp
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\University.cpp(9,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\University.cpp(121): warning C4715: 'University::HODFind': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\University.cpp(109): warning C4715: 'University::TeacherFind': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\University.cpp(176): warning C4715: 'University::ITManagerFind': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Main.cpp(121): warning C4715: 'StudentLogin': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Main.cpp(148): warning C4715: 'TeacherLogin': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Main.cpp(175): warning C4715: 'ITManLogin': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Main.cpp(202): warning C4715: 'HODLogin': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Department.cpp(84): warning C4715: 'Department::getStudent': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Department.cpp(126): warning C4715: 'Department::TeacherFind': not all control paths return a value
+C:\Users\Nivyan\Desktop\University-Management-System\University-Management-System\Department.cpp(134): warning C4715: 'Department::getTeachiD': not all control paths return a value
+  University-Management-System.vcxproj -> C:\Users\Nivyan\Desktop\University-Management-System\x64\Debug\University-Management-System.exe
